@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mRunning barneshut.BarnesHut [0m
+[0m[[0minfo[0m] [0mRunning barneshut.conctrees.ConcBufferRunner [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	/media/a-star/Study/Guides/Algorithms/Parallel algorithms/Parallel Programming [Coursera]/Assignments/Week 4/barneshut/target/scala-2.11/classes[0m
@@ -13,6 +13,34 @@
 [0m[[0mdebug[0m] [0m	/home/a-star/.ivy2/cache/org.scala-lang.modules/scala-swing_2.11/bundles/scala-swing_2.11-1.0.1.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread AWT-Shutdown to terminate.[0m
-[0m[[0mdebug[0m] [0mDisposing 1 top-level windows...[0m
-[0m[[0mdebug[0m] [0mWaiting 2 s to let AWT thread exit.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-5-worker-11[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-5-worker-11[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-5-worker-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-5-worker-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-4-worker-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-4-worker-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-5-worker-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-5-worker-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-5-worker-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-5-worker-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-5-worker-15[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-5-worker-15[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-5-worker-9[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-5-worker-9[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-5-worker-13[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-5-worker-13[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-3-worker-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-3-worker-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-1-worker-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-1-worker-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-4-worker-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-4-worker-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-4-worker-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-4-worker-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-5-worker-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-5-worker-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-4-worker-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-4-worker-1[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
