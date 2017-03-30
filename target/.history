@@ -1,0 +1,35 @@
+compile
+runMain
+runMain barneshut.BarnesHut
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+runMain barneshut.BarnesHut
+submit myselfthebest@yahoo.com VFL2iRZCNlJ973Xg
+compile
+submit myselfthebest@yahoo.com VFL2iRZCNlJ973Xg
+compile
+submit myselfthebest@yahoo.com VFL2iRZCNlJ973Xg
+runMain barneshut.BarnesHut
+compile
+runMain barneshut.BarnesHut
+compile
+runMain barneshut.BarnesHut
+compile
+runMain barneshut.BarnesHut
+compile
+runMain barneshut.BarnesHut
+compile
+runMain barneshut.BarnesHut
+compile
+runMain barneshut.BarnesHut
+run
