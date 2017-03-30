@@ -13,3 +13,5 @@ To run:
 > sbt ... might take some time to initialize  
 > compile  
 > run ... if it tells you multiple Main classes detected, press 1 and hit enter  
+
+Note: The code was designed as a part of an online course undertaken at Coursea ("Parallel Programming"). In case you are doing the same course, kindly do not copy the code to complete the course. The code was modified so if you use copy the code, you will run into errors. Always remember the Coursera Honor Code.
